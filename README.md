@@ -1,4 +1,4 @@
-# TamaGo-HQ-chemotherapy_drug_prep_machine
+# chemo_drug_prep_machine
 This project is the firmware for a chemotherapy drug preparation machine using an ESP32 microcontroller. The system interacts with Firebase to receive commands, control servos and stepper motors for various drug preparation actions, and supports over-the-air (OTA) firmware updates.
 
  ![image](https://github.com/user-attachments/assets/e3cc64b5-5f57-4d80-8760-98f897cbf335)
